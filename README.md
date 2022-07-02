@@ -33,13 +33,13 @@ retaining_wall();
 some of the results are as follow:
 <div class="row">
   <div class="column">
-    <img src="/Figures/Retaining wall - strain xx.jpg" alt="Snow" style="width:100%">
+    <img src="/Figures/Retaining wall - strain xx.jpg" alt="strain xx" style="width:30%">
   </div>
   <div class="column">
-    <img src="/Figures/Retaining wall - strain xy.jpg" alt="Forest" style="width:100%">
+    <img src="/Figures/Retaining wall - strain xy.jpg" alt="strain xy" style="width:30%">
   </div>
   <div class="column">
-    <img src="/Figures/Retaining wall - strain yy.jpg" alt="Mountains" style="width:100%">
+    <img src="/Figures/Retaining wall - strain yy.jpg" alt="strain yy" style="width:30%">
   </div>
 </div>
 
