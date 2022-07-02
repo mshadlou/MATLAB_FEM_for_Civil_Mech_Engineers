@@ -14,7 +14,7 @@ In this repository, you will use FEM by understanding 5 important steps as follo
   <li>Visualisation and our interpretation of results</li>
 </ul>
 
-Dependencies:<br>
+<h3>Dependencies:</h3><br>
  - MATLAB <br>
  - Partial Differential Equation Toolbox<br>
 
@@ -30,3 +30,10 @@ To run this example, uncomment the following line of code<br>
 ```MATLAB
 retaining_wall();
 ```
+some of the results are as follow:
+
+<img width=400 height=400 src="/Figures/Retaining wall - strain xx.jpg" type="image/tiff" negative=yes>
+<img width=400 height=400 src="/Figures/Retaining wall - strain xy.jpg" type="image/tiff" negative=yes>
+<img width=400 height=400 src="/Figures/Retaining wall - strain yy.jpg" type="image/tiff" negative=yes>
+
+
