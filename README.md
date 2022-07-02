@@ -35,6 +35,7 @@ Strain xx             |  Strain xy             |  Strain xy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20yy.jpg)
 
+#
 <h3>Example 2: Pulling_embedded_plate and calculating stress/strain/displacement etc</h3>
 Imagine we are going to simulate the response of an anchore in soil under the pulling chain forces. This example will help us to understand this problem.
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
@@ -50,7 +51,27 @@ Strain xx             |  Strain xy             |  Strain xy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20yy.jpg)
 
+#
+<h3>Example 3: Loading on Surface/embedded Foundation and calculating stress/strain/displacement etc</h3>
+Surface/embedded foundations are the foundations we build our structures or superstructures on top. This can be a building foundation or bridge foundation or even spudcan in offshore oil/gas platforms. Try this examples and play with input parameters, such as
+```MATLAB
+    L = 5;                                              % foundation length
+    wc = 0.5;                                           % foundation thickness (depth)
+    a = 0;                                              % angle of bottom of foundation (degree) min 0
+```
+and compare the results.
+We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
+<img width=400 src="/Figures/Surface foundation - model.jpg" type="image/tiff" negative=yes>
+
+To run this example, uncomment the following line of code<br>
+```MATLAB
+pulling_embedded_plate();
+```
+some of the results are as follow:
+Strain xx             |  Strain xy             |  Strain xy
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20yy.jpg)
 
 
 
