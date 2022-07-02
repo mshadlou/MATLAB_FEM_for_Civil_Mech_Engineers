@@ -14,6 +14,14 @@ In this repository, you will use FEM by understanding 5 important steps as follo
   <li>Visualisation and our interpretation of results</li>
 </ul>
 
+Dependencies:<br>
+ - MATLAB <br>
+ - Partial Differential Equation Toolbox<br>
+
+```MATLAB
+retaining_wall();
+```
+
 # Course 6: Geotechnical Engineering Applications 101
 
 <h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
