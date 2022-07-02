@@ -75,7 +75,7 @@ Strain xx             |  Strain xy             |  Strain xy
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20yy.jpg)
 
 #
-<h3>Example 4: Loading on Surface/embedded Foundation and calculating stress/strain/displacement etc</h3>
+<h3>Example 4: Seepage around the retaining walls of the sheet-pile type, and calculating hydraulic gradient</h3>
 Seepage around retaining walls is one of the important topics in geotechnical engineering. The direction of seepage actually influences seepage pressures developed against the back of retaining walls. Terzaghi (1943) demonstrated that vertically-inclined seepage eliminates transient pore pressures acting against the retaining wall, reducing the load acting on such walls. we try to calculate and show the hydraulic gradient by this example.<br>
 
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
