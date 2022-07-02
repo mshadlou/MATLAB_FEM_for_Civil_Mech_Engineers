@@ -24,7 +24,7 @@ In this repository, you will use FEM by understanding 5 important steps as follo
 <h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Retaining wall - model.jpg" negative=yes>
+<img width=400 src="/Figures/Retaining wall - model.jpg">
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -40,7 +40,7 @@ Strain xx             |  Strain xy             |  Strain xy
 Imagine we are going to simulate the response of an anchore in soil under the pulling chain forces. This example will help us to understand this problem.
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Pulling embedded plate - model.jpg" negative=yes>
+<img width=400 src="/Figures/Pulling embedded plate - model.jpg">
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -63,7 +63,7 @@ a = 0;                                              % angle of bottom of foundat
 and compare the results.<br>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Surface foundation - model.jpg" negative=yes>
+<img width=400 src="/Figures/Surface foundation - model.jpg">
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -84,9 +84,10 @@ We are going to make the following model and aplly the loading and boundary cond
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
-pulling_embedded_plate();
+Seepage_retaining_wall();
 ```
-Hydraulic gradient is shown as follows:
+Hydraulic gradient is shown as follows:<br>
+
 <img width=400 src="/Figures/Seepgage of retaining wall - hydraulic gradient.jpg">
 
 
