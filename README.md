@@ -15,6 +15,7 @@ In this repository, you will use FEM by understanding 5 important steps as follo
 </ul>
 
 
-# example 1: Loading on a retaining wall and calculating stress/strain/displacement etc
-We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.
+# Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc
+We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
+
 <img src="/Figures/Retaining wall - model.tif" alt="Alt text" title="Retaining wall model in this example">
