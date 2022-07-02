@@ -18,14 +18,15 @@ Dependencies:<br>
  - MATLAB <br>
  - Partial Differential Equation Toolbox<br>
 
-```MATLAB
-retaining_wall();
-```
 
 # Course 6: Geotechnical Engineering Applications 101
 
 <h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=200 height=200 src="/Figures/Retaining wall - model.jpg" type="image/tiff" negative=yes>
+<img width=400 height=400 src="/Figures/Retaining wall - model.jpg" type="image/tiff" negative=yes>
 
+To run this example, uncomment the following line of code<br>
+```MATLAB
+retaining_wall();
+```
