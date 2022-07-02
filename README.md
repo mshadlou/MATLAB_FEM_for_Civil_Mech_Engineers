@@ -33,7 +33,8 @@ retaining_wall();
 some of the results are as follow:
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/Figures/Retaining wall - strain xx.jpg)  |  ![](/Figures/Retaining wall - strain xy.jpg)
+![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xx.jpg)  |  ![]([/Figures/Retaining wall - strain xy.jpg](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xy.jpg))
+
 <div float="left">
   <div>
     <img src="/Figures/Retaining wall - strain xx.jpg" alt="strain xx" style="width:30%">
