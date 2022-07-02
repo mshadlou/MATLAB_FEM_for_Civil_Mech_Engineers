@@ -54,10 +54,11 @@ Strain xx             |  Strain xy             |  Strain xy
 #
 <h3>Example 3: Loading on Surface/embedded Foundation and calculating stress/strain/displacement etc</h3>
 Surface/embedded foundations are the foundations we build our structures or superstructures on top. This can be a building foundation or bridge foundation or even spudcan in offshore oil/gas platforms. Try this examples and play with input parameters, such as<br>
+
 ```MATLAB
-    L = 5;                                              % foundation length
-    wc = 0.5;                                           % foundation thickness (depth)
-    a = 0;                                              % angle of bottom of foundation (degree) min 0
+L = 5;                                              % foundation length
+wc = 0.5;                                           % foundation thickness (depth)
+a = 0;                                              % angle of bottom of foundation (degree) min 0
 ```
 and compare the results.<br>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
