@@ -90,6 +90,24 @@ Hydraulic gradient is shown as follows:<br>
 
 <img width=400 src="/Figures/Seepgage of retaining wall - hydraulic gradient.jpg">
 
+#
+<h3>Example 5: Pileline movement (upside/dawnside etc), tunel movement, pile section</h3>
+In this example, we look at a scenario that can solve several problems. Imagine we have a pipeline emebedded in sea-bed or in onshore. It will be influenced by several loading consitions and we want to understand its interaction with the soil surrounding it. In another scenario, we have a tunnel section and want to know the stress and strain in soil surrounding it when specific loading condition influences it. All can be solved by modifying this code.<br>
+In comparison with this example and previous examples; we insert the geometery by an stl file that we created by sketchup.<br>
+We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
+
+<img width=400 src="/Figures/PipelinePileTunnel - model.jpg">
+
+To run this example, uncomment the following line of code<br>
+```MATLAB
+pile_tunnel_2D();
+```
+some of the results are as follow:
+Strain xx             |  Strain xy             |  Strain xy
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20yy.jpg)
+
+
 
 
 
