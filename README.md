@@ -31,9 +31,16 @@ To run this example, uncomment the following line of code<br>
 retaining_wall();
 ```
 some of the results are as follow:
-
-<img width=400 height=400 src="/Figures/Retaining wall - strain xx.jpg" type="image/tiff" negative=yes>
-<img width=400 height=400 src="/Figures/Retaining wall - strain xy.jpg" type="image/tiff" negative=yes>
-<img width=400 height=400 src="/Figures/Retaining wall - strain yy.jpg" type="image/tiff" negative=yes>
+<div class="row">
+  <div class="column">
+    <img src="/Figures/Retaining wall - strain xx.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Figures/Retaining wall - strain xy.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Figures/Retaining wall - strain yy.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 
