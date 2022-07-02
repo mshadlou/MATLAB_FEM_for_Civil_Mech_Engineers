@@ -14,8 +14,9 @@ In this repository, you will use FEM by understanding 5 important steps as follo
   <li>Visualisation and our interpretation of results</li>
 </ul>
 
+# Course 6: Geotechnical Engineering Applications 101
 
-# Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc
+<h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
 <img width=200 height=200 src="/Figures/Retaining wall - model.tif" type="image/tiff"
