@@ -21,6 +21,17 @@ In this repository, you will use FEM by understanding 5 important steps as follo
 
 # Course 6: Geotechnical Engineering Applications 101
 
+Examples cover:<br>
+<ul>
+  <li>Soil-tunnel interaction</li>
+  <li>Soil-pile interaction</li>
+  <li>Soil-quay wall</li>
+  <li>Pulling of embedded plate (anchor system)</li>
+  <li>Embedded pipeline</li>
+  <li>Seepage around sheet piles</li>
+  <li>Rigid/flexible foundation</li>
+</ul> 
+
 <h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
