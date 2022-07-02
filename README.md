@@ -24,7 +24,7 @@ In this repository, you will use FEM by understanding 5 important steps as follo
 <h3>Example 1: Loading on a retaining wall and calculating stress/strain/displacement etc</h3>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Retaining wall - model.jpg" type="image/tiff" negative=yes>
+<img width=400 src="/Figures/Retaining wall - model.jpg" negative=yes>
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -40,7 +40,7 @@ Strain xx             |  Strain xy             |  Strain xy
 Imagine we are going to simulate the response of an anchore in soil under the pulling chain forces. This example will help us to understand this problem.
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Pulling embedded plate - model.jpg" type="image/tiff" negative=yes>
+<img width=400 src="/Figures/Pulling embedded plate - model.jpg" negative=yes>
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -63,7 +63,7 @@ a = 0;                                              % angle of bottom of foundat
 and compare the results.<br>
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
-<img width=400 src="/Figures/Surface foundation - model.jpg" type="image/tiff" negative=yes>
+<img width=400 src="/Figures/Surface foundation - model.jpg" negative=yes>
 
 To run this example, uncomment the following line of code<br>
 ```MATLAB
@@ -73,6 +73,21 @@ some of the results are as follow:
 Strain xx             |  Strain xy             |  Strain xy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20yy.jpg)
+
+#
+<h3>Example 4: Loading on Surface/embedded Foundation and calculating stress/strain/displacement etc</h3>
+Seepage around retaining walls is one of the important topics in geotechnical engineering. The direction of seepage actually influences seepage pressures developed against the back of retaining walls. Terzaghi (1943) demonstrated that vertically-inclined seepage eliminates transient pore pressures acting against the retaining wall, reducing the load acting on such walls. we try to calculate and show the hydraulic gradient by this example.<br>
+
+We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
+
+<img width=400 src="/Figures/Seepgage of retaining wall - model.jpg">
+
+To run this example, uncomment the following line of code<br>
+```MATLAB
+pulling_embedded_plate();
+```
+Hydraulic gradient is shown as follows:
+<img width=400 src="/Figures/Seepgage of retaining wall - hydraulic gradient.jpg">
 
 
 
