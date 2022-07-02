@@ -19,3 +19,4 @@ In this repository, you will use FEM by understanding 5 important steps as follo
 We are going to make the following model and aplly the loading and boundary condition, then solve it and visualise the results.<br>
 
 <img src="/Figures/Retaining wall - model.tif" alt="Alt text" title="Retaining wall model in this example">
+![My Image](Figures/Retaining wall - model.tif)
