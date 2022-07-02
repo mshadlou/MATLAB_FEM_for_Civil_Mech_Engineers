@@ -31,6 +31,9 @@ To run this example, uncomment the following line of code<br>
 retaining_wall();
 ```
 some of the results are as follow:
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](Figures/Retaining wall - strain xx.jpg)  |  ![](Figures/Retaining wall - strain xy.jpg)
 <div class="row">
   <div class="column">
     <img src="/Figures/Retaining wall - strain xx.jpg" alt="strain xx" style="width:30%">
