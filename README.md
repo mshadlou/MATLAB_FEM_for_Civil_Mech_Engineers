@@ -42,7 +42,7 @@ To run this example, uncomment the following line of code<br>
 retaining_wall();
 ```
 some of the results are as follow:
-Strain xx             |  Strain xy             |  Strain xy
+Strain xx             |  Strain xy             |  Strain yy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20yy.jpg)
 
@@ -58,7 +58,7 @@ To run this example, uncomment the following line of code<br>
 pulling_embedded_plate();
 ```
 some of the results are as follow:
-Strain xx             |  Strain xy             |  Strain xy
+Strain xx             |  Strain xy             |  Strain yy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Pulling%20embedded%20plate%20-%20strain%20yy.jpg)
 
@@ -81,7 +81,7 @@ To run this example, uncomment the following line of code<br>
 pulling_embedded_plate();
 ```
 some of the results are as follow:
-Strain xx             |  Strain xy             |  Strain xy
+Strain xx             |  Strain xy             |  Strain yy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Surface%20foundation%20-%20strain%20yy.jpg)
 
@@ -114,7 +114,7 @@ To run this example, uncomment the following line of code<br>
 pile_tunnel_2D();
 ```
 some of the results are as follow:
-Strain xx             |  Strain xy             |  Strain xy
+Strain xx             |  Strain xy             |  Strain yy
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/PipelinePileTunnel%20-%20strain%20yy.jpg)
 
