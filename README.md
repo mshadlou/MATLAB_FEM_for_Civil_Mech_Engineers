@@ -31,20 +31,10 @@ To run this example, uncomment the following line of code<br>
 retaining_wall();
 ```
 some of the results are as follow:
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xy.jpg)
+Strain xx             |  Strain xy             |  Strain xy
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xx.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20xy.jpg)  |  ![](https://github.com/mshadlou/MATLAB_FEM_for_Civil_Mech_Engineers/blob/main/Figures/Retaining%20wall%20-%20strain%20yy.jpg))
 
-<div float="left">
-  <div>
-    <img src="/Figures/Retaining wall - strain xx.jpg" alt="strain xx" style="width:30%">
-  </div>
-  <div>
-    <img src="/Figures/Retaining wall - strain xy.jpg" alt="strain xy" style="width:30%">
-  </div>
-  <div>
-    <img src="/Figures/Retaining wall - strain yy.jpg" alt="strain yy" style="width:30%">
-  </div>
-</div>
+
 
 
